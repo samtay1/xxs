@@ -44,7 +44,7 @@ X1 = gg.multiChoice({
 "[🥊]➣ ᴀᴡᴍ ɴᴏ şᴀʀᴊᴏʀ",
 "[🤣]➣ ᴊᴇᴇᴘ ʜᴀᴠᴀ ʏᴏʟʟᴀʀɪ",
 "[🤣]➣ ᴛᴏʀᴏs ʜᴀᴠᴀ ʏᴏʟʟᴀʀɪ",
-"×× ᴇxɪᴛ / ᴄ̧ɪᴋɪş ××"},nil,"      ░▒▓  E Y M E N Ｈａｃｋ ＴＲ ™  ▓▒░\n                       ━━━━━━━━━━\n                  👨‍✈️ᴏ̈ɴᴄᴇ ᴀɴᴛɪʙᴀɴɪ ᴀᴄ̧👨‍✈️ !!\n                       ━━━━━━━━━━\n 🖤sᴇᴢᴏɴ16 ᴜʏᴜᴍʟᴜ ʏᴀʀɢɪ sᴄʀɪᴘᴛ🖤 \n Seni Seviom")
+"×× ᴇxɪᴛ / ᴄ̧ɪᴋɪş ××"},nil,"      ░▒▓  R A X 1 N H A C K ＴＲ ™  ▓▒░\n                       ━━━━━━━━━━\n                  👨‍✈️ᴏ̈ɴᴄᴇ ᴀɴᴛɪʙᴀɴɪ ᴀᴄ̧👨‍✈️ !!\n                       ━━━━━━━━━━\n 🖤sᴇᴢᴏɴ16 ᴜʏᴜᴍʟᴜ ʏᴀʀɢɪ sᴄʀɪᴘᴛ🖤 \n Seni Seviom")
 
 if X1 == nil then else
 if X1[1] == true then A() end
@@ -211,7 +211,7 @@ gg["getResults"](50000)
 gg["editAll"]("1734438217", gg["TYPE_DWORD"])
 gg["clearResults"]()
 logclear()
-gg["alert"]("🔰Antiban Aktif\n EymenHack iyi oyunlar diler")
+gg["alert"]("🔰Antiban Aktif\n RAX1N iyi oyunlar diler")
 end--Fᴜɴᴄᴛɪᴏɴ
 
 function logclear()
